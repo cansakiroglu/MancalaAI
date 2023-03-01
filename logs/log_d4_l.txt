@@ -1,0 +1,244 @@
+(base) cansakiroglu@Mehmet-MacBook-Air _Yap441Project % python mancala.py
+Initial board state is: 
+
+     4 4 4 4 4 4
+0                   0
+     4 4 4 4 4 4
+
+If you want to start the game type 1 and press Enter, else type 0 and press Enter for the computer to start: 1
+Please select a slot to make your move (Like 1, 2, 3, 4, 5 or 6) : 4
+
+     4 4 4 4 4 4
+0                   1
+     4 4 4 1 5 5
+
+Please select a slot to make your move (Like 1, 2, 3, 4, 5 or 6) : 2
+
+     4 4 4 4 4 4
+0                   1
+     4 1 5 2 6 5
+
+----------------------------------------------------------------------------------
+AI is playing...
+AI decides to play its slot number  4
+( By the way, AI thinks the value of the position is:  7 )
+
+     5 5 1 4 4 4
+1                   1
+     4 1 5 2 6 5
+
+----------------------------------------------------------------------------------
+AI is playing...
+AI decides to play its slot number  6
+( By the way, AI thinks the value of the position is:  12 )
+
+     1 5 1 4 4 4
+8                   1
+     5 2 0 2 6 5
+
+Please select a slot to make your move (Like 1, 2, 3, 4, 5 or 6) : 4 
+
+     1 5 1 4 4 4
+8                   1
+     5 2 0 1 7 5
+
+----------------------------------------------------------------------------------
+AI is playing...
+AI decides to play its slot number  6
+( By the way, AI thinks the value of the position is:  12 )
+
+     0 5 1 4 4 4
+9                   1
+     5 2 0 1 7 5
+
+----------------------------------------------------------------------------------
+AI is playing...
+AI decides to play its slot number  5
+( By the way, AI thinks the value of the position is:  12 )
+
+     1 1 1 4 4 4
+10                   1
+     6 3 0 1 7 5
+
+Please select a slot to make your move (Like 1, 2, 3, 4, 5 or 6) : 5
+
+     1 1 0 5 5 5
+10                   4
+     6 3 0 1 1 6
+
+----------------------------------------------------------------------------------
+AI is playing...
+AI decides to play its slot number  6
+( By the way, AI thinks the value of the position is:  16 )
+
+     0 1 0 5 5 5
+11                   4
+     6 3 0 1 1 6
+
+----------------------------------------------------------------------------------
+AI is playing...
+AI decides to play its slot number  5
+( By the way, AI thinks the value of the position is:  16 )
+
+     0 0 0 5 5 5
+18                   4
+     0 3 0 1 1 6
+
+Please select a slot to make your move (Like 1, 2, 3, 4, 5 or 6) : 4
+
+     0 0 0 5 5 5
+18                   4
+     0 3 0 0 2 6
+
+----------------------------------------------------------------------------------
+AI is playing...
+AI decides to play its slot number  3
+( By the way, AI thinks the value of the position is:  15 )
+
+     1 1 1 1 5 5
+19                   4
+     0 3 0 0 2 6
+
+----------------------------------------------------------------------------------
+AI is playing...
+AI decides to play its slot number  6
+( By the way, AI thinks the value of the position is:  16 )
+
+     0 1 1 1 5 5
+20                   4
+     0 3 0 0 2 6
+
+----------------------------------------------------------------------------------
+AI is playing...
+AI decides to play its slot number  5
+( By the way, AI thinks the value of the position is:  15 )
+
+     1 0 1 1 5 5
+20                   4
+     0 3 0 0 2 6
+
+Please select a slot to make your move (Like 1, 2, 3, 4, 5 or 6) : 2
+
+     1 0 1 0 5 5
+20                   6
+     0 1 1 0 2 6
+
+----------------------------------------------------------------------------------
+AI is playing...
+AI decides to play its slot number  6
+( By the way, AI thinks the value of the position is:  17 )
+
+     0 0 1 0 5 5
+21                   6
+     0 1 1 0 2 6
+
+----------------------------------------------------------------------------------
+AI is playing...
+AI decides to play its slot number  4
+( By the way, AI thinks the value of the position is:  14 )
+
+     0 0 0 0 5 5
+23                   6
+     0 0 1 0 2 6
+
+Please select a slot to make your move (Like 1, 2, 3, 4, 5 or 6) : 3
+
+     0 0 0 0 5 5
+23                   6
+     0 0 0 1 2 6
+
+----------------------------------------------------------------------------------
+AI is playing...
+AI decides to play its slot number  2
+( By the way, AI thinks the value of the position is:  15 )
+
+     1 1 1 1 1 5
+23                   6
+     0 0 0 1 2 6
+
+Please select a slot to make your move (Like 1, 2, 3, 4, 5 or 6) : 4
+
+     1 1 1 1 1 5
+23                   6
+     0 0 0 0 3 6
+
+----------------------------------------------------------------------------------
+AI is playing...
+AI decides to play its slot number  6
+( By the way, AI thinks the value of the position is:  16 )
+
+     0 1 1 1 1 5
+24                   6
+     0 0 0 0 3 6
+
+----------------------------------------------------------------------------------
+AI is playing...
+AI decides to play its slot number  5
+( By the way, AI thinks the value of the position is:  16 )
+
+     1 0 1 1 1 5
+24                   6
+     0 0 0 0 3 6
+
+Please select a slot to make your move (Like 1, 2, 3, 4, 5 or 6) : 5
+
+     1 0 1 1 1 5
+24                   7
+     0 0 0 0 1 7
+
+Please select a slot to make your move (Like 1, 2, 3, 4, 5 or 6) : 5
+
+     1 0 1 1 1 5
+24                   7
+     0 0 0 0 0 8
+
+----------------------------------------------------------------------------------
+AI is playing...
+AI decides to play its slot number  6
+( By the way, AI thinks the value of the position is:  18 )
+
+     0 0 1 1 1 5
+25                   7
+     0 0 0 0 0 8
+
+----------------------------------------------------------------------------------
+AI is playing...
+AI decides to play its slot number  4
+( By the way, AI thinks the value of the position is:  18 )
+
+     0 1 0 1 1 5
+25                   7
+     0 0 0 0 0 8
+
+Please select a slot to make your move (Like 1, 2, 3, 4, 5 or 6) : 6
+
+     1 2 1 2 2 6
+25                   8
+     0 0 0 0 0 1
+
+----------------------------------------------------------------------------------
+AI is playing...
+AI decides to play its slot number  6
+( By the way, AI thinks the value of the position is:  4 )
+
+     0 2 1 2 2 6
+26                   8
+     0 0 0 0 0 1
+
+----------------------------------------------------------------------------------
+AI is playing...
+AI decides to play its slot number  5
+( By the way, AI thinks the value of the position is:  4 )
+
+     1 1 1 2 2 6
+26                   8
+     0 0 0 0 0 1
+
+Please select a slot to make your move (Like 1, 2, 3, 4, 5 or 6) : 6
+
+     0 0 0 0 0 0
+26                   22
+     0 0 0 0 0 0
+
+GAME OVER!
+AI WINS!
